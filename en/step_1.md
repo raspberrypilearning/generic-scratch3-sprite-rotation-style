@@ -1,25 +1,14 @@
-## Introduction
+You can set which way a sprite rotates.
 
-Add project description here. What will learners be making?
++ Click on the sprite in the **Sprites** panel.
 
-### What you will make
+![sprite highlighted](images/click-sprite.png)
 
-Add something here to showcase here, for example:
++ Click on the direction and select the rotation style you want.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
+![Different rotation style](images/rotation-style.png)
 
-Add instructions here. These should explain either how the finished project will work, or explain how to interact with the content above.
-
-### What you will learn
-
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
-
-+ [Add curriculum strand/level description.](https://www.raspberrypi.org/curriculum/strand/level){:target="_blank"}
-
-### Additional information for educators
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
-
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+The styles are:
+- All around — points the sprite in the direction it is facing
+- Left/Right — flips the sprite left or right only
+- Do not rotate — the sprite looks the same regardless of which direction it is facing

@@ -1,11 +1,7 @@
-title: generic-scratch3-sprite-rotation-style
+title: Set sprite rotation style
 hero_image: images/banner.png
-description: generic-scratch3-sprite-rotation-style description
-version: 4
+description: Set the rotation style of a sprite
 listed: false
-copyedit: false
-last_tested: "2018-10-23"
+copyedit: true
 steps:
   - title: Introduction
-  - title: What you will need
-  - title: Step title
