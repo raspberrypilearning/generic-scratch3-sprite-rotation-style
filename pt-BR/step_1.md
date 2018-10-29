@@ -1,4 +1,4 @@
-You can set which way a sprite rotates.
+Você pode definir de que maneira um ator gira.
 
 - Click on the sprite in the **Sprites** panel.
 
@@ -8,7 +8,7 @@ You can set which way a sprite rotates.
 
 ![Different rotation style](images/rotation-style.png)
 
-The styles are:
+Os estilos são:
 
 - All around — points the sprite in the direction it is facing
 - Left/Right — flips the sprite left or right only
