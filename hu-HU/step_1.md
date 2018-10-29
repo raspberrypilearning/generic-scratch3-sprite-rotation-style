@@ -1,4 +1,4 @@
-You can set which way a sprite rotates.
+Beállíthatod, hogy a szereplő hogyan forduljon el.
 
 - Click on the sprite in the **Sprites** panel.
 
@@ -6,9 +6,9 @@ You can set which way a sprite rotates.
 
 - Click on the direction and select the rotation style you want.
 
-![Different rotation style](images/rotation-style.png)
+![Különböző forgási stílus](images/rotation-style.png)
 
-The styles are:
+A stílusok:
 
 - All around — points the sprite in the direction it is facing
 - Left/Right — flips the sprite left or right only
