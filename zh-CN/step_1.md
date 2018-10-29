@@ -1,4 +1,4 @@
-You can set which way a sprite rotates.
+你可以设置角色旋转模式。
 
 - Click on the sprite in the **Sprites** panel.
 
@@ -6,9 +6,9 @@ You can set which way a sprite rotates.
 
 - Click on the direction and select the rotation style you want.
 
-![Different rotation style](images/rotation-style.png)
+![不同的旋转模式](images/rotation-style.png)
 
-The styles are:
+模式有：
 
 - All around — points the sprite in the direction it is facing
 - Left/Right — flips the sprite left or right only
