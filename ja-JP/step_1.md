@@ -1,4 +1,4 @@
-You can set which way a sprite rotates.
+スプライトの回転方法を設定できます。
 
 - Click on the sprite in the **Sprites** panel.
 
@@ -6,9 +6,9 @@ You can set which way a sprite rotates.
 
 - Click on the direction and select the rotation style you want.
 
-![Different rotation style](images/rotation-style.png)
+![違う回転の種類](images/rotation-style.png)
 
-The styles are:
+スタイルは次の通りです。
 
 - All around — points the sprite in the direction it is facing
 - Left/Right — flips the sprite left or right only
