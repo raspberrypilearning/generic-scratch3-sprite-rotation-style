@@ -1,4 +1,4 @@
-You can set which way a sprite rotates.
+Kamu dapat mengatur ke arah mana sprite berputar.
 
 - Click on the sprite in the **Sprites** panel.
 
@@ -6,9 +6,9 @@ You can set which way a sprite rotates.
 
 - Click on the direction and select the rotation style you want.
 
-![Different rotation style](images/rotation-style.png)
+![Gaya rotasi yang berbeda](images/rotation-style.png)
 
-The styles are:
+Gaya yang tersedia adalah:
 
 - All around — points the sprite in the direction it is facing
 - Left/Right — flips the sprite left or right only
