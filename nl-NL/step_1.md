@@ -1,15 +1,15 @@
 Je kunt de manier waarop een sprite draait instellen.
 
-- Click on the sprite in the **Sprites** panel.
+- Klik op de sprite in het **Sprites** paneel.
 
 ![sprite highlighted](images/click-sprite.png)
 
-- Click on the direction and select the rotation style you want.
+- Klik op de richting en selecteer de gewenste rotatiestijl.
 
 ![Verschillende draaistijlen](images/rotation-style.png)
 
 De stijlen zijn:
 
-- All around — points the sprite in the direction it is facing
-- Left/Right — flips the sprite left or right only
-- Do not rotate — the sprite looks the same regardless of which direction it is facing
+- Volledige rotatie - richt de sprite in de richting waarin hij kijkt
+- Links-rechts - richt de sprite alleen naar links of rechts
+- Roteer niet - de sprite ziet er hetzelfde uit, ongeacht de richting waarin hij gaat
