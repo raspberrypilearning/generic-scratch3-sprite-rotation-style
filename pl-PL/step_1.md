@@ -1,6 +1,6 @@
 Aby ustawić sposób rotacji postaci.
 
-- Click on the sprite in the **Sprites** panel.
+- Kliknij na duszka w panelu **Duszki**.
 
 ![sprite highlighted](images/click-sprite.png)
 
