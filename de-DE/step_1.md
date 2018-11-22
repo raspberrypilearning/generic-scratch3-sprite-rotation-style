@@ -1,15 +1,15 @@
 Du kannst festlegen, wie sich eine Figur dreht.
 
-- Click on the sprite in the **Sprites** panel.
+- Klicke im **Figuren** Bereich auf die auszurichtende Figur.
 
-![sprite highlighted](images/click-sprite.png)
+![Hervorgehobene Figur](images/click-sprite.png)
 
-- Click on the direction and select the rotation style you want.
+- Klicke auf die Richtung und wähle die gewünschte Rotationsart.
 
-![Different rotation style](images/rotation-style.png)
+![Eine andere Rotationsart](images/rotation-style.png)
 
-Die Stile sind:
+Diese Rotationsarten stehen zur Wahl:
 
-- All around — points the sprite in the direction it is facing
+- Rundherum - die Figur dreht sich in die Richtung, in die sie zeigt
 - Left/Right — flips the sprite left or right only
 - Do not rotate — the sprite looks the same regardless of which direction it is facing
