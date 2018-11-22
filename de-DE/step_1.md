@@ -11,5 +11,5 @@ Du kannst festlegen, wie sich eine Figur dreht.
 Diese Rotationsarten stehen zur Wahl:
 
 - Rundherum - die Figur dreht sich in die Richtung, in die sie zeigt
-- Left/Right — flips the sprite left or right only
-- Do not rotate — the sprite looks the same regardless of which direction it is facing
+- Links/Rechts - dreht die Figur nur nach links oder rechts
+- Nicht drehen - die Figur sieht immer gleich aus, egal in welche Richtung sie zeigt
