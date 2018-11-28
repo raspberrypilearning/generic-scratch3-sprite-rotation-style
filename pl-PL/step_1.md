@@ -1,15 +1,15 @@
-Aby ustawić sposób rotacji postaci.
+Możesz ustawić sposób obracania się postaci.
 
 - Kliknij na duszka w panelu **Duszki**.
 
-![sprite highlighted](images/click-sprite.png)
+![podświetlony duszek](images/click-sprite.png)
 
-- Click on the direction and select the rotation style you want.
+- Kliknij kierunek i wybierz styl obrotu, który chcesz.
 
 ![Inny styl obrotu](images/rotation-style.png)
 
 Style to:
 
-- All around — points the sprite in the direction it is facing
-- Left/Right — flips the sprite left or right only
-- Do not rotate — the sprite looks the same regardless of which direction it is facing
+- Pełny obrót - ustawia duszka w kierunku, w którym jest zwrócony
+- Lewo/prawo - odwraca duszka tylko w lewo lub w prawo
+- Nie obracaj - duszek wygląda tak samo niezależnie od kierunku, w którym jest zwrócony
