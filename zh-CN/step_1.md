@@ -1,15 +1,15 @@
 你可以设置角色旋转模式。
 
-- Click on the sprite in the **Sprites** panel.
+- 在**角色**面板中点击角色图标。
 
-![sprite highlighted](images/click-sprite.png)
+![突出显示的角色](images/click-sprite.png)
 
-- Click on the direction and select the rotation style you want.
+- 点击方向并选择你想要的旋转样式。
 
 ![不同的旋转模式](images/rotation-style.png)
 
 模式有：
 
-- All around — points the sprite in the direction it is facing
-- Left/Right — flips the sprite left or right only
-- Do not rotate — the sprite looks the same regardless of which direction it is facing
+- 任意旋转 — 将角色指向它所面向的方向
+- 左右翻转 — 将角色向左或向右翻转
+- 不旋转— 无论方向如何，角色看上去都是对着它所面向的方向
