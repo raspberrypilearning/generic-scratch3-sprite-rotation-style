@@ -1,15 +1,15 @@
-You can set which way a sprite rotates.
+شما می‌توانید تعیین کنید که شبح چگونه بچرخد.
 
-- Click on the sprite in the **Sprites** panel.
+- روی شبح در بخش **Sprites** کلیک کنید.
 
-![sprite highlighted](images/click-sprite.png)
+![شبح مشخص‌شده](images/click-sprite.png)
 
-- Click on the direction and select the rotation style you want.
+- روی جهت کلیک کنید و نحوه‌ی چرخش مورد نظرتان را انتخاب کنید.
 
-![Different rotation style](images/rotation-style.png)
+![انواع مختلف چرخش](images/rotation-style.png)
 
-The styles are:
+انواع چرخش عبارتند از:
 
-- All around — points the sprite in the direction it is facing
-- Left/Right — flips the sprite left or right only
-- Do not rotate — the sprite looks the same regardless of which direction it is facing
+- چرخش کامل - شبح به همان سمتی که مقابلش است، می‌چرخد
+- چپ/راست — شبح را تنها به چپ یا راست می‌چرخاند
+- بدون چرخش - شبح صرف نظر از این‌که جهتش به چه سمتی است، ثابت می‌ماند
