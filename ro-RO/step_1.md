@@ -1,15 +1,15 @@
-Puteți stabili modul în care un personaj se rotește.
+Poți stabili modul în care un personaj se rotește.
 
-- Click on the sprite in the **Sprites** panel.
+- Dă clic pe personaj în panoul de **Personaje**.
 
-![sprite highlighted](images/click-sprite.png)
+![personaj evidențiat](images/click-sprite.png)
 
-- Click on the direction and select the rotation style you want.
+- Apasă pe direcție și selectează tipul de rotație dorit.
 
 ![Stil diferit de rotire](images/rotation-style.png)
 
 Modurile sunt:
 
-- All around — points the sprite in the direction it is facing
-- Left/Right — flips the sprite left or right only
-- Do not rotate — the sprite looks the same regardless of which direction it is facing
+- De jur împrejur - arată în ce direcție se îndreaptă personajul
+- Stânga/dreapta - întoarce personajul numai spre stânga sau spre dreapta
+- Nu roti - personajul arată la fel indiferent de direcția în care se indreaptă
