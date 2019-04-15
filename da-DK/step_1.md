@@ -1,15 +1,15 @@
 Du kan indstille, hvilken vej en sprite roterer.
 
-- Click on the sprite in the **Sprites** panel.
+- Klik på sprite i ** Sprites ** panel.
 
-![sprite highlighted](images/click-sprite.png)
+![sprite fremhævet](images/click-sprite.png)
 
-- Click on the direction and select the rotation style you want.
+- Klik på retningen og vælg den ønskede rotationsstil.
 
 ![Forskellig rotationsstil](images/rotation-style.png)
 
 Stilarterne er:
 
-- All around — points the sprite in the direction it is facing
-- Left/Right — flips the sprite left or right only
-- Do not rotate — the sprite looks the same regardless of which direction it is facing
+- Fuld rotation - peger spriten i den retning, den vender mod
+- Venstre-højre - vender kun sprite til venstre eller højre
+- Roter ikke - spriten ser ens ud uanset hvilken retning, den vender mod
