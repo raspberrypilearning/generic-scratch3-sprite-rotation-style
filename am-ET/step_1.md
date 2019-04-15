@@ -1,15 +1,15 @@
-You can set which way a sprite rotates.
+ባህሪ ወዴት እንደሚሽከረከር መወሰን ይችላሉ።
 
-- Click on the sprite in the **Sprites** panel.
+- በ **Sprites** ፓነል ላይ ስፕራይት የሚለውን ጠቅ ያድርጉ።
 
-![sprite highlighted](images/click-sprite.png)
+![የተደመቀ ባህሪ](images/click-sprite.png)
 
-- Click on the direction and select the rotation style you want.
+- አቅጣጫውን ይጫኑ እና የሚፈልጉትን አዙሪት አይነት ይምረጡ።
 
-![Different rotation style](images/rotation-style.png)
+![ሌላ የማሽከርከር ስልት](images/rotation-style.png)
 
-The styles are:
+ቅጦቹ እነኚህ ናቸው ፦
 
-- All around — points the sprite in the direction it is facing
-- Left/Right — flips the sprite left or right only
-- Do not rotate — the sprite looks the same regardless of which direction it is facing
+- በመላው ዙሪያ - የባህሪውን ፊት አቅጣጫ ያመለክታል
+- ግራ / ቀኝ - ባህሪውን ወደ ግራ ወይም ቀኝ ብቻ ያዞራል
+- አይሽከርከር - ባህሪው ፊት በሁሉም አይነት አቅጣጫ ተመሳሳይ ነው
