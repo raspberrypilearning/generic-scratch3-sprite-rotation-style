@@ -1,15 +1,15 @@
-You can set which way a sprite rotates.
+스프라이트를 회전하는 방법을 설정할 수 있습니다.
 
-- Click on the sprite in the **Sprites** panel.
+- **Sprite** 패널에서 스프라이트를 클릭하십시오.
 
-![sprite highlighted](images/click-sprite.png)
+![스프라이트가 강조 표시됨](images/click-sprite.png)
 
-- Click on the direction and select the rotation style you want.
+- 방향을 클릭하고 원하는 회전 스타일을 선택하십시오.
 
-![Different rotation style](images/rotation-style.png)
+![다른 회전 방법](images/rotation-style.png)
 
-The styles are:
+다음과 같은 스프라이트 회전 방법들을 사용할 수 있습니다.
 
-- All around — points the sprite in the direction it is facing
-- Left/Right — flips the sprite left or right only
-- Do not rotate — the sprite looks the same regardless of which direction it is facing
+- 모든 방향 - 스프라이트가 바라보는 방향을 향하게 합니다.
+- 왼쪽 / 오른쪽 - 스프라이트를 왼쪽이나 오른쪽으로 뒤집기만 합니다.
+- 회전하지 않음 - 스프라이트는 바라보는 방향에 관계없이 동일하게 보입니다.
