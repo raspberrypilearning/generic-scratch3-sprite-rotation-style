@@ -1,15 +1,15 @@
 Bir kuklanın hangi şekilde döneceğini ayarlayabilirsiniz.
 
-- Click on the sprite in the **Sprites** panel.
+- **Kuklalar** panelindeki kuklanın üstüne tıklayın.
 
-![sprite highlighted](images/click-sprite.png)
+![vurgulanmış kukla](images/click-sprite.png)
 
-- Click on the direction and select the rotation style you want.
+- Yön 'e tıklayın ve istediğiniz bir dönüş tarzını seçin.
 
 ![Farklı dönüş izni](images/rotation-style.png)
 
-Dönüş izinleri şunlardır:
+Dönüş yönleri şunlardır:
 
-- All around — points the sprite in the direction it is facing
-- Left/Right — flips the sprite left or right only
-- Do not rotate — the sprite looks the same regardless of which direction it is facing
+- Her yöne dön — kuklanın dönmüş olduğu yönü işaret eder
+- Sağa/Sola — kuklayı sadece sağa veya sola çevirir
+- Döndürme — kukla hangi yöne döndürüldüğünden bağımsız ilk haline döner
