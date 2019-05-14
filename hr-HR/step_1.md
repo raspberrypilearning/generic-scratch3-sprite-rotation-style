@@ -1,4 +1,4 @@
-Možeš postaviti na koji način se lik rotira.
+You can set which way a sprite rotates.
 
 - Click on the sprite in the **Sprites** panel.
 
