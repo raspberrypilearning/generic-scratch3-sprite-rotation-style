@@ -1,15 +1,15 @@
-You can set which way a sprite rotates.
+Gelli di ddewis sut mae'r corlun yn troi.
 
-- Click on the sprite in the **Sprites** panel.
+- Clicia'r corlun yn y panel **Corlun**.
 
-![sprite highlighted](images/click-sprite.png)
+![sprite wedi'i amlygu](images/click-sprite.png)
 
-- Click on the direction and select the rotation style you want.
+- Clicia ar y cyfeiriad a dewis y math o droelli rwyt ti ei eisiau.
 
-![Different rotation style](images/rotation-style.png)
+![Steil troi gwahanol](images/rotation-style.png)
 
-The styles are:
+Dyma'r steiliau:
 
-- All around — points the sprite in the direction it is facing
-- Left/Right — flips the sprite left or right only
-- Do not rotate — the sprite looks the same regardless of which direction it is facing
+- Cylchdro llawn - pwyntio'r ciplun at y cyfeiriad y mae'n ei wynebu
+- Chwith i dde - trosi y ciplun i'r dde neu i'r chwith yn unig
+- Dim cylchdroi - mae'r corlun yn edrych yr un ffordd, ni waeth beth fo'r cyfeiriad y mae'n ei wynebu
