@@ -1,15 +1,15 @@
-Tu peux définir la manière dont un lutin pivote.
+Tu peux définir la manière dont un sprite pivote.
 
-- Click on the sprite in the **Sprites** panel.
+- Cliquez sur le sprite dans le panneau **Sprites**.
 
-![sprite highlighted](images/click-sprite.png)
+![lutin mis en évidence](images/click-sprite.png)
 
-- Click on the direction and select the rotation style you want.
+- Clique sur la direction et sélectionne le style de rotation que tu souhaites.
 
 ![Style de rotation différent](images/rotation-style.png)
 
 Les styles sont:
 
-- All around — points the sprite in the direction it is facing
-- Left/Right — flips the sprite left or right only
-- Do not rotate — the sprite looks the same regardless of which direction it is facing
+- Tout autour - le sprite pointe dans la direction à laquelle il fait face
+- Gauche/Droite - le sprite se retourne uniquement vers la gauche ou la droite
+- Ne pivote pas - le sprite a la même apparence, quelle que soit sa direction
