@@ -6,7 +6,7 @@ Você pode definir de que maneira um ator gira.
 
 - Click on the direction and select the rotation style you want.
 
-![Different rotation style](images/rotation-style.png)
+![Estilo de rotação diferente](images/rotation-style.png)
 
 Os estilos são:
 
