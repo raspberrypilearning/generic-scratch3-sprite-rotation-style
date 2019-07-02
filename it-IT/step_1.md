@@ -1,6 +1,6 @@
-È possibile impostare il modo in cui uno sprite ruota.
+You can set which way a sprite rotates.
 
-- Click on the sprite in the **Sprites** panel.
+- Clicca sullo sprite nel **pannello** degli sprite.
 
 ![sprite highlighted](images/click-sprite.png)
 
