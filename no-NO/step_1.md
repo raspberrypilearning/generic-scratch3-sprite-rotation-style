@@ -1,4 +1,4 @@
-You can set which way a sprite rotates.
+Du kan angi hvilken retning en figur skal peke.
 
 - Click on the sprite in the **Sprites** panel.
 
