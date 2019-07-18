@@ -1,15 +1,15 @@
 Du kan angi hvilken retning en figur skal peke.
 
-- Click on the sprite in the **Sprites** panel.
+- Klikk på figuren i **Figur-**panelet.
 
-![sprite highlighted](images/click-sprite.png)
+![figur uthevet](images/click-sprite.png)
 
-- Click on the direction and select the rotation style you want.
+- Klikk på retningen og velg hvor den skal peke.
 
-![Different rotation style](images/rotation-style.png)
+![Ulike rotasjonsvalg](images/rotation-style.png)
 
-The styles are:
+Valgene er:
 
-- All around — points the sprite in the direction it is facing
-- Left/Right — flips the sprite left or right only
-- Do not rotate — the sprite looks the same regardless of which direction it is facing
+- Fri rotasjon - peker figuren i den retningen den flytter seg
+- Vend sideveis - Vender figuren til venstre eller høyre
+- Ikke roter - figuren peker samme vei uansett hvilken retning den flytter seg
