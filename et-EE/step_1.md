@@ -1,15 +1,15 @@
-You can set which way a sprite rotates.
+Võid määrata spraidi pöörlemissuuna.
 
-- Click on the sprite in the **Sprites** panel.
+- Klõpsa spraidil **Spraitide** paneelis.
 
-![sprite highlighted](images/click-sprite.png)
+![sprait esiletõstetud](images/click-sprite.png)
 
-- Click on the direction and select the rotation style you want.
+- Kliki suunal ja vali soovitud pöörlemisstiil.
 
-![Different rotation style](images/rotation-style.png)
+![Teistsugune pöörlemisstiil](images/rotation-style.png)
 
-The styles are:
+Stiilid on:
 
-- All around — points the sprite in the direction it is facing
-- Left/Right — flips the sprite left or right only
-- Do not rotate — the sprite looks the same regardless of which direction it is facing
+- Saab pöörata igas suunas - osutab spraidi selles suunas, mille poole too näoga on
+- Vasakule/paremale - sprait pöördub ainult vasakule või paremale
+- Ei pöörata - sprait näeb välja samasugune, hoolimata suunast, mille poole see näoga on
