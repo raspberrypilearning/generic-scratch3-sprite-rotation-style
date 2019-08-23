@@ -1,15 +1,15 @@
-You can set which way a sprite rotates.
+ඔබට sprite වල භ්‍රමන දිශාව සැකසිය හැකියි.
 
-- Click on the sprite in the **Sprites** panel.
+- **Sprites** පැනලයේ ඇති sprite මත ක්ලික් කරන්න.
 
-![sprite highlighted](images/click-sprite.png)
+![sprite ඉස්මතු කරයි](images/click-sprite.png)
 
-- Click on the direction and select the rotation style you want.
+- ඔබට අවශ්‍ය දිශාව මත ක්ලික් කර භ්‍රමන ශෛලිය තෝරන්න.
 
-![Different rotation style](images/rotation-style.png)
+![විවිධ භ්‍රමන ශෛලිය](images/rotation-style.png)
 
-The styles are:
+ශෛලියයන් වන්නේ:
 
-- All around — points the sprite in the direction it is facing
-- Left/Right — flips the sprite left or right only
-- Do not rotate — the sprite looks the same regardless of which direction it is facing
+- වටේට(All around) - sprite එක එය මුහුණලා අති දිශාවට යොමුකරයි.
+- වමට / දකුණට(Left/Right) - sprite එක වම්පසට හෝ දකුණුපසට පෙරළන්න.
+- භ්‍රමනය නොකරන්න(Do not rotate) - sprite එක කුමන අතට මුහුණලා තැබුවත් sprite එක ඒ ආකරයෙන්ම දිස්වේ.
