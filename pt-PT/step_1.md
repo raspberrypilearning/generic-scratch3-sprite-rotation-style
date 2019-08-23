@@ -1,15 +1,15 @@
-You can set which way a sprite rotates.
+Podes definir a direção em que o actor gira.
 
-- Click on the sprite in the **Sprites** panel.
+- Clica no actor no painel **Actores**.
 
-![sprite highlighted](images/click-sprite.png)
+![Actor realçado](images/click-sprite.png)
 
-- Click on the direction and select the rotation style you want.
+- Clica na direção e seleciona o estilo de rotação que quiseres.
 
-![Different rotation style](images/rotation-style.png)
+![Estilo de rotação diferente](images/rotation-style.png)
 
-The styles are:
+Os estilos de rotaçāo são:
 
-- All around — points the sprite in the direction it is facing
-- Left/Right — flips the sprite left or right only
-- Do not rotate — the sprite looks the same regardless of which direction it is facing
+- Tudo ao redor - aponta o actor para a direção em que está voltado
+- Esquerda / Direita - vira o actor apenas para a esquerda ou para a direita
+- Não roda - o actor parece o mesmo independentemente da direção para que está voltado
