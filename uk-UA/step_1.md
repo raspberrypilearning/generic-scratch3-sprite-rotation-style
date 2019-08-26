@@ -1,15 +1,15 @@
-You can set which way a sprite rotates.
+Ви можете вказати, яким чином спрайт обертається.
 
-- Click on the sprite in the **Sprites** panel.
+- Натисніть на спрайт на панелі **Спрайти**.
 
-![sprite highlighted](images/click-sprite.png)
+![виділений спрайт](images/click-sprite.png)
 
-- Click on the direction and select the rotation style you want.
+- Натисніть на напрям і виберіть бажаний стиль обертання.
 
-![Different rotation style](images/rotation-style.png)
+![Різні стилі обертання](images/rotation-style.png)
 
-The styles are:
+Стилі є такі:
 
-- All around — points the sprite in the direction it is facing
-- Left/Right — flips the sprite left or right only
-- Do not rotate — the sprite looks the same regardless of which direction it is facing
+- Навколо - направляє спрайт в обраному напряму
+- Вліво/вправо - направляє спрайт лише вліво або вправо
+- Не обертається - спрайт виглядає так само, незважаючи на те, який напрям обрано
