@@ -1,15 +1,15 @@
 Você pode definir de que maneira um ator gira.
 
-- Click on the sprite in the **Sprites** panel.
+- Clique no sprite no painel **Sprites** .
 
-![sprite highlighted](images/click-sprite.png)
+![sprite destacado](images/click-sprite.png)
 
-- Click on the direction and select the rotation style you want.
+- Clique na direção e selecione o estilo de rotação que você deseja.
 
 ![Estilo de rotação diferente](images/rotation-style.png)
 
 Os estilos são:
 
-- All around — points the sprite in the direction it is facing
-- Left/Right — flips the sprite left or right only
-- Do not rotate — the sprite looks the same regardless of which direction it is facing
+- Tudo ao redor — aponta o sprite na direção que está voltado
+- Esquerda / Direita - vire o sprite apenas para a esquerda ou para a direita
+- Não gire - o sprite parece o mesmo, independentemente de qual direção ele está voltado
