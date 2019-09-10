@@ -1,12 +1,12 @@
 Možeš podesiti u kojem smjeru se lik rotira.
 
-- Klikni na lika na kartici **Likova**.
+- Klikni na lika na kartici **Likovi**.
 
 ![istaknut lik](images/click-sprite.png)
 
-- Klikni na smjer i odaberi željeni stil rotacije.
+- Klikni na smjer i odaberi željeni način rotacije.
 
-![Različiti stil rotacije](images/rotation-style.png)
+![Različiti način rotacije](images/rotation-style.png)
 
 Stilovi su:
 
