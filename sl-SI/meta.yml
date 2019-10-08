@@ -1,9 +1,9 @@
 ---
-title: Določi način vrtenja figure
-hero_image: images / banner.png
-description: Določi na kakšen način se bo figura obračala
+title: Set sprite rotation style
+hero_image: images/banner.png
+description: Set the rotation style of a sprite
 listed: false
 copyedit: true
 steps:
   - 
-    title: Uvod
+    title: Introduction
