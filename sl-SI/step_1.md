@@ -1,15 +1,15 @@
-Nastaviš lahko, v katero smer se bo figura vrtela.
+You can set which way a sprite rotates.
 
-- Klikni na figuro v razdelku **Figure**.
+- Click on the sprite in the **Sprites** panel.
 
-![poudarjena figura](images/click-sprite.png)
+![sprite highlighted](images/click-sprite.png)
 
-- Klikni na smer in izberi želeni način vrtenja.
+- Click on the direction and select the rotation style you want.
 
-![Različni slogi vrtenja](images/rotation-style.png)
+![Different rotation style](images/rotation-style.png)
 
-Slogi so:
+The styles are:
 
-- Na vse strani - figura se obrne v tiso smer, v katero gleda
-- Levo / Desno - figura se obrne zgolj v levo ali desno
-- Ne zasukaj - figura je videti vedno enako ne glede na smer v katero gleda
+- All around — points the sprite in the direction it is facing
+- Left/Right — flips the sprite left or right only
+- Do not rotate — the sprite looks the same regardless of which direction it is facing
