@@ -1,15 +1,15 @@
 スプライトの回転方法を設定できます。
 
-- Click on the sprite in the **Sprites** panel.
+- **スプライト**パネルの中にあるスプライトをクリックします。
 
-![sprite highlighted](images/click-sprite.png)
+![選択しているスプライト](images/click-sprite.png)
 
-- Click on the direction and select the rotation style you want.
+- 向きをクリックして、必要な回転スタイルを選択します。
 
 ![違う回転の種類](images/rotation-style.png)
 
 スタイルは次の通りです。
 
-- All around — points the sprite in the direction it is facing
-- Left/Right — flips the sprite left or right only
-- Do not rotate — the sprite looks the same regardless of which direction it is facing
+- 自由に回転 -​​ 指定した向きにスプライトを向かせます
+- 左/右 - スプライトを左右にのみ反転します
+- 回転しない - 指定した向きに関わらずスプライトは同じ方向を向きます
