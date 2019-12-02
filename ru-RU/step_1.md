@@ -1,15 +1,15 @@
 Вы можете настроить как будет вращаться спрайт.
 
-- Click on the sprite in the **Sprites** panel.
+- Кликни по спрайту в панели **Спрайтов**.
 
-![sprite highlighted](images/click-sprite.png)
+![спрайт подсвечен](images/click-sprite.png)
 
-- Click on the direction and select the rotation style you want.
+- Кликни по направлению и выбери нужный стиль вращения.
 
 ![Разные стили поворота](images/rotation-style.png)
 
 Стили:
 
-- All around — points the sprite in the direction it is facing
-- Left/Right — flips the sprite left or right only
-- Do not rotate — the sprite looks the same regardless of which direction it is facing
+- Кругом — вращает спрайт в ту сторону, в которую он смотрит
+- Влево/направо — переворачивает спрайт только влево или только вправо
+- Не вращать — спрайт не поворачивается независимо от его направления
