@@ -1,15 +1,15 @@
-You can set which way a sprite rotates.
+Tu nastaviš, akým spôsobom sa postava otočí.
 
-- Click on the sprite in the **Sprites** panel.
+- Kliknite na postavu na paneli s **Postavy**.
 
-![sprite highlighted](images/click-sprite.png)
+![zvýraznená postava](images/click-sprite.png)
 
-- Click on the direction and select the rotation style you want.
+- Kliknite na smer a vyberte požadovaný štýl otáčania.
 
-![Different rotation style](images/rotation-style.png)
+![Rôzne štýly rotácie](images/rotation-style.png)
 
-The styles are:
+Štýly sú:
 
-- All around — points the sprite in the direction it is facing
-- Left/Right — flips the sprite left or right only
-- Do not rotate — the sprite looks the same regardless of which direction it is facing
+- Dokola - ukazuje postavu v smere, ktorým je otočená
+- Vľavo-vpravo - len preklopí postavu doľava alebo doprava
+- Neotáčaj - postava vyzerá rovnako bez ohľadu na smer akým je otočená
