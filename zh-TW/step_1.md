@@ -1,14 +1,14 @@
-You can set which way a sprite rotates.
+你可以設定角色迴轉的方式。
 
-- Click on the sprite in the **Sprites** panel.
+- 點選**角色**面板中的一個角色。
 
 ![sprite highlighted](images/click-sprite.png)
 
-- Click on the direction and select the rotation style you want.
+- 點擊方向，你就可以選擇所需的迴轉方式。
 
 ![Different rotation style](images/rotation-style.png)
 
-The styles are:
+可用的方式有：
 
 - All around — points the sprite in the direction it is facing
 - Left/Right — flips the sprite left or right only
