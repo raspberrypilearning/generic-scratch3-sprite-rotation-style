@@ -2,14 +2,14 @@
 
 - 點選**角色**面板中的一個角色。
 
-![sprite highlighted](images/click-sprite.png)
+![角色高亮顯示](images/click-sprite.png)
 
 - 點擊方向，你就可以選擇所需的迴轉方式。
 
-![Different rotation style](images/rotation-style.png)
+![不同的迴轉方式](images/rotation-style.png)
 
 可用的方式有：
 
-- All around — points the sprite in the direction it is facing
-- Left/Right — flips the sprite left or right only
-- Do not rotate — the sprite looks the same regardless of which direction it is facing
+- 不設限 - 角色依行進的方向改變面向
+- 左 - 右 - 角色只會面向左或右
+- 不旋轉 - 角色始終面朝同一方向
