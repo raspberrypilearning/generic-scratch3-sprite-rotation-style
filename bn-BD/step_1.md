@@ -11,5 +11,5 @@
 স্টাইলগুলো হলোঃ
 
 - চারপাশে — স্প্রাইটটি যে দিকে আছে সেটি নির্দেশ করে
-- Left/Right — flips the sprite left or right only
-- Do not rotate — the sprite looks the same regardless of which direction it is facing
+- বাম / ডান —শুধুমাত্র বাম বা ডানদিকে স্প্রাইট কে উল্টে দেয়
+- ঘোরাবেন না - স্প্রাইট টি যে অভিমুখি ই হোক না কেন, স্প্রাইট টিকে একই রকম দেখায়
