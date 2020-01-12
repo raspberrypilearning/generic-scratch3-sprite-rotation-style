@@ -1,15 +1,15 @@
-You can set which way a sprite rotates.
+স্প্রাইটটি কোন দিকে ঘুরতে পারে তা আপনি নির্ধারণ করতে পারেন।.
 
-- Click on the sprite in the **Sprites** panel.
+- স্প্রাইট প্যানেলের কাছাকাছি থাকা স্প্রাইটের উপর **Sprites** ক্লিক করুন।.
 
-![sprite highlighted](images/click-sprite.png)
+![স্প্রাইট টি হাইলাইটেড হবে](images/click-sprite.png)
 
-- Click on the direction and select the rotation style you want.
+- আপনি যে দিকটি চান তাতে ক্লিক করুন এবং ঘূর্ণন শৈলীটি নির্বাচন করুন|
 
-![Different rotation style](images/rotation-style.png)
+![ঘূর্ণনের বিভিন্ন রীতি](images/rotation-style.png)
 
-The styles are:
+স্টাইলগুলো হলোঃ
 
-- All around — points the sprite in the direction it is facing
+- চারপাশে — স্প্রাইটটি যে দিকে আছে সেটি নির্দেশ করে
 - Left/Right — flips the sprite left or right only
 - Do not rotate — the sprite looks the same regardless of which direction it is facing
