@@ -1,15 +1,15 @@
-You can set which way a sprite rotates.
+Voit asettaa tavan, jolla hahmoa kierretään.
 
-- Click on the sprite in the **Sprites** panel.
+- Napsauta hahmoa **Hahmot** -paneelissa.
 
-![sprite highlighted](images/click-sprite.png)
+![hahmo korostettu](images/click-sprite.png)
 
-- Click on the direction and select the rotation style you want.
+- Napsauta suuntaa ja valitse haluamasi kiertotyyli.
 
-![Different rotation style](images/rotation-style.png)
+![Erilainen kiertotyyli](images/rotation-style.png)
 
-The styles are:
+Tyylit ovat:
 
-- All around — points the sprite in the direction it is facing
-- Left/Right — flips the sprite left or right only
-- Do not rotate — the sprite looks the same regardless of which direction it is facing
+- Joka suuntaan — hahmo on kohdistettu siihen suuntaan, johon se osoittaa
+- Vasen/Oikea — kääntää hahmoa vain vasemmalle tai oikealle
+- Älä kierrä — hahmo näyttää samalta riippumatta siitä mihin suuntaan se osoittaa
