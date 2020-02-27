@@ -1,15 +1,15 @@
-You can set which way a sprite rotates.
+Du kan ställa in hur en sprajt roterar.
 
-- Click on the sprite in the **Sprites** panel.
+- Klicka på sprajten i **Sprites** panelen.
 
-![sprite highlighted](images/click-sprite.png)
+![sprajt markerad](images/click-sprite.png)
 
-- Click on the direction and select the rotation style you want.
+- Klicka på riktningen och välj önskad rotationsstil.
 
-![Different rotation style](images/rotation-style.png)
+![Annan rotationsstil](images/rotation-style.png)
 
-The styles are:
+Stilarna är:
 
-- All around — points the sprite in the direction it is facing
-- Left/Right — flips the sprite left or right only
-- Do not rotate — the sprite looks the same regardless of which direction it is facing
+- Rotera - vänder sprajten i den riktning den tittar
+- Vänster/Höger - vänder sprajten åt vänster eller höger
+- Rotera inte - sprajten ser densamma ut oavsett vilken riktning den tittar
