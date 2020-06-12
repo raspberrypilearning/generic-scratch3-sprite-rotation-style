@@ -1,15 +1,15 @@
-You can set which way a sprite rotates.
+Maaari mong itakda kung aling paraan ang isang sprite ay umiikot.
 
-- Click on the sprite in the **Sprites** panel.
+- I-click sa sprite sa panel ng **Sprites**.
 
-![sprite highlighted](images/click-sprite.png)
+![naka-highlight ang sprite](images/click-sprite.png)
 
-- Click on the direction and select the rotation style you want.
+- I-click sa direksyon at piliin ang istilo ng pag-ikot na nais mo.
 
-![Different rotation style](images/rotation-style.png)
+![Iba't ibang istilo ng pag-ikot](images/rotation-style.png)
 
-The styles are:
+Ang mga estilo ay:
 
-- All around — points the sprite in the direction it is facing
-- Left/Right — flips the sprite left or right only
-- Do not rotate — the sprite looks the same regardless of which direction it is facing
+- All around - tumuturo sa sprite sa direksyon na kinakaharap nito
+- Kaliwa / Kanan - ipaikot pakaliwa o pakanan ang sprite
+- Huwag paikutin - pareho ang hitsura ng sprite kahit na anong direksyon ang kinakaharap nito
