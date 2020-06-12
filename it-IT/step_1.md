@@ -10,6 +10,6 @@
 
 Gli stili sono:
 
-- Giro completo: punta lo sprite nella direzione verso cui è rivolto
+- Può Ruotare: punta lo sprite nella direzione verso cui è rivolto
 - Sinistra/Destra - ribalta lo sprite solo a sinistra o a destra
 - Non ruotare: lo sprite resta lo stesso indipendentemente dalla direzione verso cui è rivolto
